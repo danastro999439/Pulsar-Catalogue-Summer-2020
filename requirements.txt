@@ -1,0 +1,3 @@
+# Packages required for bsic usage of 'astropy' package
+numpy 
+matplotlib
